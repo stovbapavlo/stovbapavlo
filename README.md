@@ -29,7 +29,7 @@
 
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
+  <div style="display: flex; align-items: center; justify-content: center;">
     <h3>My</h3>
     <a href="https://leetcode.com/stovbapavlo/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" alt="LeetCode Badge">
