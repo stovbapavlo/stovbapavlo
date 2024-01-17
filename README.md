@@ -29,10 +29,12 @@
 
 
 <div align = "center">
-  <h3>My leetcode</h3>
+  <div>
+    <h3>My </h3>
   <a href="https://leetcode.com/stovbapavlo/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" alt="LeetCode Badge">
-</a>
+  </a>
+  </div>
   <a>
     <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
   </a>
