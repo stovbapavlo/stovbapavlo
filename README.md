@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 >Hi there, I'm Pavlo <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <a href="https://git.io/typing-svg">
+  <a>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E2F7EE&center=true&vCenter=true&random=false&width=435&lines=I`m+Frontend+student" alt="Typing SVG" />
   </a>
 </div>
@@ -30,8 +30,10 @@
 
 <div align = "center">
   <h3>My leetcode</h3>
+  <a href="https://leetcode.com/stovbapavlo/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" alt="LeetCode Badge">
-  <a href="https://github.com/KnlnKS/leetcode-stats">
+</a>
+  <a>
     <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
   </a>
 </div>
