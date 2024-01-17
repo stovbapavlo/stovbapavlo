@@ -21,6 +21,7 @@
 </div>
 
 <div>
+  <h3 align = "center">My leetcode</h3>
   <a href="https://github.com/KnlnKS/leetcode-stats">
     <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
   </a>
