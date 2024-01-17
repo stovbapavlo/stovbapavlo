@@ -36,9 +36,5 @@
 </div>
 
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=stovbapavlo" alt="Activity Graph">
-  </a>
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stovbapavlo)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
