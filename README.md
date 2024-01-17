@@ -28,16 +28,14 @@
   </div>
 
 
-<div align = "center">
-  <div>
-    <h3>My </h3>
-  <a href="https://leetcode.com/stovbapavlo/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" alt="LeetCode Badge">
-  </a>
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
+    <h3>My</h3>
+    <a href="https://leetcode.com/stovbapavlo/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" alt="LeetCode Badge">
+    </a>
   </div>
-  <a>
-    <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
-  </a>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
 </div>
 
 
