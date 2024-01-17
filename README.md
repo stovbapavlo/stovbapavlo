@@ -35,7 +35,4 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <img alt="github contribution grid snake animation" src="github-user-contribution.svg">
-</div>
 
