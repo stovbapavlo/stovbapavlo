@@ -30,6 +30,7 @@
 
 <div align = "center">
   <h3>My leetcode</h3>
+  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
   <a href="https://github.com/KnlnKS/leetcode-stats">
     <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
   </a>
