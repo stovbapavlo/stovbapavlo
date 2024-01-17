@@ -10,7 +10,8 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=stovbapavlo&theme=graywhite&border_radius=4.6&card_width=1000" alt="GitHub Streak" /></a>
 
-
+<!--
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=stovbapavlo&show_icons=true&theme=graywhite" alt="GitHub Stats">
 </div>
+-->
