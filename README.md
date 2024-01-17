@@ -35,8 +35,7 @@
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="file:///C:/Users/pavel/Downloads/github-user-contribution.svg">
-  <source media="(prefers-color-scheme: light)" srcset="file:///C:/Users/pavel/Downloads/github-user-contribution.svg">
-  <img alt="github contribution grid snake animation" src="file:///C:/Users/pavel/Downloads/github-user-contribution.svg">
-</picture>
+<div style="display: flex; justify-content: center;">
+  <img alt="github contribution grid snake animation" src="github-user-contribution.svg">
+</div>
+
