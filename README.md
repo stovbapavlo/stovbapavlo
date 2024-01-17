@@ -20,3 +20,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stovbapavlo&layout=compact" alt="Top Languages">
 </div>
 
+<div>
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo&theme=graywhite" alt="KnlnKS's LeetCode Stats">
+  </a>
+</div>
+
+
