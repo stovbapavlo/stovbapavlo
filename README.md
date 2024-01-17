@@ -22,7 +22,7 @@
 
 <div>
   <a href="https://github.com/KnlnKS/leetcode-stats">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo&theme=graywhite" alt="KnlnKS's LeetCode Stats">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
   </a>
 </div>
 
