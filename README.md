@@ -16,4 +16,7 @@
 </div>
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stovbapavlo&layout=compact)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stovbapavlo&layout=compact" alt="Top Languages">
+</div>
+
