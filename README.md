@@ -8,7 +8,7 @@
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=stovbapavlo&theme=graywhite&border_radius=4.6&card_width=1000" alt="GitHub Streak" /></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com?user=stovbapavlo&theme=graywhite&border_radius=4.6&card_width=1000" alt="GitHub Streak" /></a>
 
 <!--
 <div style="display: flex; justify-content: center;">
