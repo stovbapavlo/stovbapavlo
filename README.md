@@ -29,14 +29,11 @@
 
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
-  <h3 style="margin: 0;">My
-    <a href="https://leetcode.com/stovbapavlo/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" alt="LeetCode Badge" style="height: 1.02em; margin-left: 0.5em;">
-    </a>
-  </h3>
+  <h3>My leetcode</h3>
 </div>
-  <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
+  <a href="https://leetcode.com/stovbapavlo/" target="_blank">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
+  </a>
 </div>
 
 
